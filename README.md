@@ -20,7 +20,9 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-    <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+    <a href="https://ionized-help-5cd.notion.site/_Portfolio-6dcc1a922b8a4b429f6b62efc4796ec1/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+  
+  
 </p>
 
 <p align="center">Click to go </p>
